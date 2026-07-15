@@ -11,4 +11,4 @@ currently very basic build, purpose built. will continue to update over time!
 
 virustotal ID: (6205aada542e079770848848f8191694ca029eb4298eca2028ea3cccb31e6eae)
 
-you can find the download in the "release" option to the right -------->
+you can find the download in the **"Releases"** option to the right -------->
